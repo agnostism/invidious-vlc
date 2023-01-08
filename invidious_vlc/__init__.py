@@ -1,7 +1,7 @@
 """
-Play a video from Invidious in VLC. Requires vlc.exe to be available.
+Play a YouTube video from Invidious in VLC. Requires vlc in PATH.
 
-Usage: vlc-invidious-script [search query]
+Usage: invidious-vlc [search query]
 """
 
 
